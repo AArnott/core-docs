@@ -13,7 +13,7 @@ class Program
 
         for (int i = 0; i < 5; i++)
         {
-            // Populate numbers with just even numbers.
+            // Populate evenNumbers with just even numbers.
             evenNumbers.Add(i * 2);
 
             // Populate oddNumbers with just odd numbers.
